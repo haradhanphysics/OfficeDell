@@ -484,7 +484,7 @@ You should see output similar to the following:
     make clean && make
     ```
 
-This will ensure that the environment is correctly set up and the project is compiled with the specified CUDA version.
+
 
 ## Possible Error Messages
 
